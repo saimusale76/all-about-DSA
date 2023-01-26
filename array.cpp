@@ -18,7 +18,7 @@ int main() {
 
         delete[]ARR;
         return 0;
-
+    
 
 
 
